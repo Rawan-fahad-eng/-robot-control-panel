@@ -62,3 +62,12 @@ Columns:
 ## Result
 
 The control panel successfully updates the robot command in the MySQL database without refreshing the page using JavaScript Fetch API.
+
+## Live Demo
+
+Website:
+https://rawanweb.wuaze.com
+
+## GitHub Repository
+
+Project files are available in this repository.
